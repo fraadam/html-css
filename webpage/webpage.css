@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color:  orange;
+  background-color: black; 
+  padding: 20px 0;
+  display: flex
+  justify-content: center;
+}
+
+
+.menu {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.news {
+  margin-left: 20px;
+}
+
+.contact {
+  margin-left: 20px;
+}
+
+.header-container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 400px;
+    top: 
+    right: 350px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    opacity: 0.5;
+}
+
+.header {
+  width: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.poster {
+  display: flex;
+  justify-content: center;
+}
+
+/* ide még jön */
+
+.photo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+}
+
+.photo-container {
+  justify-content: left; 
+}
+
+.footer {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+
+.footer-item {
+  color: orange;
+  background-color: black;
+  padding: 20px 0;
+  display: flex
+  justify-content: center;
+}

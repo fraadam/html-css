@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red
+}
+form:input{
+    display: table
+}
+p{
+    display: table-row
+}
+label, input{
+    display: table-cell
+}
+textarea{
+    resize: none
+}
